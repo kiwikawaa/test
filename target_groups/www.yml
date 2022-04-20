@@ -1,0 +1,7 @@
+type: target-group
+name: www
+description: www
+conditions:
+  - operator: regex
+    property: prop2
+    operand: m
